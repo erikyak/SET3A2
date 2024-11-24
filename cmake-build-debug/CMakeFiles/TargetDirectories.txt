@@ -1,0 +1,3 @@
+/Users/erikakovlev/A2S3/cmake-build-debug/CMakeFiles/A2S3.dir
+/Users/erikakovlev/A2S3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erikakovlev/A2S3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
