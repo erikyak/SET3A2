@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Загрузка данных
-data = pd.read_csv("result.csv")
+data = pd.read_csv("result15.csv")
 
 array_types = data["ArrayType"].unique()
 sort_types = data["SortType"].unique()

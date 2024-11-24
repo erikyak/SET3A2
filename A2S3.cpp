@@ -55,7 +55,7 @@ void mergeSort(std::vector<int>& arr, int left, int right) {
     merge(arr, left, mid, right);
 }
 int main() {
-    std::ofstream dataFile("../result.csv");
+    std::ofstream dataFile("../result15.csv");
     dataFile << "ArrayType,SortType,Size,Time\n";
     int max_size = 10000;
     std::vector<int> randomArray = ArrayGenerator::generateRandomArray(max_size, 0, 6000);
